@@ -15,7 +15,9 @@ Hello world , terminator is here.
 
 - 📫 How to reach me **Shreyakmalik@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SuyOL8wQBWXbZHdYvG2f9z7V2P7lg5Dc/view?usp=sharing](https://drive.google.com/file/d/1SuyOL8wQBWXbZHdYvG2f9z7V2P7lg5Dc/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/](file/d/1JdHkFC8_EP_3XmPREBC6gYhR4LCwUgM_/view?usp=drive_link)
+
+- 🌐 View my portfolio: (https://shreyakmalik.vercel.app/)
 
 - ⚡ Fun fact **I like games**
 
